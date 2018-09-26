@@ -3,7 +3,7 @@ layout: website-normal
 title: Brooklyn Website and Docs (dev build)
 ---
 
-there's some new crap here
+a new line
 
 <i>This page is not copied into release builds. It is here as a convenience when doing dev builds.</i>
 
